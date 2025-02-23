@@ -6,15 +6,15 @@ email: hyungjin.chg (at) gmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Hyungjin Chung
+description: Hyungjin Chung's homepage
+canonical: https://hyungjin-chung.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.co.kr/citations?user=KdchEyoAAAAJ&hl=ko
 cv_link: assets/files/CV_Hyungjin_Chung.pdf
-github_link: https://github.com/HJ-harry
+github_link: https://github.com/hyungjin-chung
 linkedin: https://www.linkedin.com/in/hj-harry/
 twitter: https://x.com/hyungjin_chung
 
