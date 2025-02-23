@@ -1,0 +1,189 @@
+main:
+  - title: "CFG++: Manifold-constrained Classifier Free Guidance for Diffusion Models"
+    authors: <strong>Hyungjin Chung</strong>, Jeongsol Kim*, Geon Yeong Park*, Hyelin Nam*, Jong Chul Ye
+    conference_short: ICLR
+    conference: International Conference on Learning Representations, 2025.
+    pdf: https://arxiv.org/abs/2406.08070
+    code: https://github.com/CFGpp-diffusion/CFGpp
+    page: https://cfgpp-diffusion.github.io/
+    image: ./assets/img/publications/2025/cfgpp.JPG
+    notes: Silver prize, 31st Samsung Humantech Paper Award
+
+  - title: "Regularization by texts for latent diffusion inverse solvers"
+    authors: Jeongsol Kim*, Geon Yeong Park*, <strong>Hyungjin Chung</strong>, Jong Chul Ye
+    conference_short: ICLR
+    conference: International Conference on Learning Representations, 2025.
+    pdf: https://arxiv.org/abs/2311.15658
+    code: https://github.com/TReg-inverse/TReg
+    page: https://treg-inverse.github.io/treg-inverse/
+    image: ./assets/img/publications/2025/treg.JPG
+    notes: Spotlight presentation
+
+  - title: "Steerable Conditional Diffusion for Out-of-Distribution Adaptation in Medical Image Reconstruction"
+    authors: Riccardo Barbano*, Alexander Denker*, <strong>Hyungjin Chung*</strong>, Tae Hoon Roh, Simon Arrdige, Peter Maass, Bangti Jin, Jong Chul Ye
+    conference_short: IEEE TMI
+    conference: IEEE Transactions on Medical Imaging, 2025.
+    pdf: https://arxiv.org/abs/2308.14409
+    code: https://github.com/alexdenker/SteerableConditionalDiffusion
+    image: ./assets/img/publications/2025/scd.png
+
+  - title: "Fundus image enhancement through direct diffusion bridges"
+    authors: Sehui Kim*, <strong>Hyungjin Chung*</strong>, Se Hie Park, Eui-Sang Chung, Kayoung Yi, Jong Chul Ye
+    conference_short: IEEE JBHI
+    conference: IEEE Journal of Biomedical and Health Informatics, 2024.
+    pdf: https://arxiv.org/abs/2409.12377
+    code: https://github.com/heeheee888/FD3
+    image: ./assets/img/publications/2024/fd3.png
+
+  - title: "Deep Diffusion Image Prior for Efficient OOD Adaptation in 3D Inverse Problems"
+    authors: <strong>Hyungjin Chung</strong>, Jong Chul Ye
+    conference_short: ECCV
+    conference: European Conference on Computer Vision, 2024.
+    pdf: https://arxiv.org/abs/2407.10641
+    code: https://github.com/HJ-harry/DDIP3D
+    image: ./assets/img/publications/2024/ddip.png
+    notes: Gold prize, 30th Samsung Humantech Paper Award
+
+  - title: "Prompt-tuning Latent Diffusion Models for Inverse Problems"
+    authors: <strong>Hyungjin Chung</strong>, Jong Chul Ye, Peyman Milanfar, Mauricio Delbracio
+    conference_short: ICML
+    conference: International Conference on Machine Learning, 2024.
+    pdf: https://arxiv.org/abs/2310.01110
+    image: ./assets/img/publications/2024/p2l.jpg
+
+  - title: "Decomposed Diffusion Sampler for Accelerating Large-Scale Inverse Problems"
+    authors: <strong>Hyungjin Chung</strong>, Suhyeon Lee, Jong Chul Ye
+    conference_short: ICLR
+    conference: International Conference on Learning Representations, 2024.
+    pdf: hhttps://arxiv.org/abs/2303.05754
+    code: https://github.com/HJ-harry/DDS
+    image: ./assets/img/publications/2024/dds.png
+
+  - title: "Improving 3D Imaging with Pre-Trained Perpendicular 2D Diffusion Models"
+    authors: Suhyeon Lee*, <strong>Hyungjin Chung*</strong>, Minyoung Park, Jonghyuk Park, Wi-Sun Ryu, Jong Chul Ye
+    conference_short: ICCV
+    conference: IEEE/CVF International Conference on Computer Vision, 2023.
+    pdf: https://arxiv.org/abs/2303.08440
+    code: https://github.com/hyn2028/tpdm
+    image: ./assets/img/publications/2023/tpdm.jpg
+
+  - title: "Parallel Diffusion Models of Operator and Image for Blind Inverse Problems"
+    authors: <strong>Hyungjin Chung*</strong>, Jeongsol Kim*, Sehui Kim, Jong Chul Ye
+    conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2023.
+    pdf: https://arxiv.org/abs/2211.10656v1
+    code: https://github.com/BlindDPS/blind-dps
+    page: https://blinddps.github.io/blind-dps-project/
+    image: ./assets/img/publications/2023/blinddps.jpg
+    video: https://www.youtube.com/watch?v=uQx63WUOIj0&feature=youtu.be
+
+  - title: "Solving 3D Inverse Problems using Pre-trained 2D Diffusion Models"
+    authors: <strong>Hyungjin Chung*</strong>, Dohoon Ryu*, Michael T. Mccann, Marc L. Klasky, Jong Chul Ye
+    conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2023.
+    pdf: https://arxiv.org/abs/2211.10655v1
+    code: https://github.com/HJ-harry/DiffusionMBIR
+    image: ./assets/img/publications/2023/diffusionmbir.jpg
+    video: https://www.youtube.com/watch?v=M-SQLJr5hDQ&feature=youtu.be
+
+  - title: "Diffusion Posterior Sampling for General Noisy Inverse Problems"
+    authors: <strong>Hyungjin Chung*</strong>, Jeongsol Kim*, Michael T. Mccann, Marc L. Klasky, Jong Chul Ye
+    conference_short: ICLR
+    conference: International Conference on Learning Representations, 2023.
+    pdf: https://openreview.net/forum?id=OnD9zGAGT0k
+    code: https://github.com/DPS2022/diffusion-posterior-sampling
+    image: ./assets/img/publications/2023/dps.jpg
+    page: https://dps2022.github.io/diffusion-posterior-sampling-page/
+    notes: Spotlight; Gold prize, 29th Samsung Humantech Paper Award
+
+  - title: "Improving Diffusion Models for Inverse Problems using Manifold Constraints"
+    authors: <strong>Hyungjin Chung*</strong>, Byeongsu Sim*, Dohoon Ryu, Jong Chul Ye
+    conference_short: NeurIPS
+    conference: Advances in Neural Information Processing Systems, 2022.
+    pdf: https://arxiv.org/abs/2206.00941
+    code: https://github.com/HJ-harry/MCG_diffusion
+    image: ./assets/img/publications/2022/mcg.jpg
+
+  - title: "Come-Closer-Diffuse-Faster Accelerating Conditional Diffusion Models for Inverse Problems through Stochastic Contraction"
+    authors: <strong>Hyungjin Chung</strong>, Byeongsu Sim, Jong Chul Ye
+    conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2022.
+    pdf: https://arxiv.org/abs/2112.05146
+    image: ./assets/img/publications/2022/ccdf.jpg
+
+  - title: "MR Image Denoising and Super-Resolution Using Regularized Reverse Diffusion"
+    authors: <strong>Hyungjin Chung</strong>, Eun Sun Lee, Jong Chul Ye
+    conference_short: IEEE TMI
+    conference: IEEE Transactions on Medical Imaging, 2022.
+    pdf: https://arxiv.org/abs/2203.12621
+    image: ./assets/img/publications/2022/r2d2.png
+
+  - title: "Score-based diffusion models for accelerated MRI"
+    authors: <strong>Hyungjin Chung</strong>, Jong Chul Ye
+    conference_short: MeDIA
+    conference: Medical Image Analysis, 2022.
+    pdf: https://arxiv.org/abs/2110.05243
+    code: https://github.com/HJ-harry/score-MRI
+    image: ./assets/img/publications/2022/score-mri.jpg
+
+  - title: "Low-dose sparse-view HAADF-STEM-EDX tomography of nanocrystals using unsupervised deep learning"
+    authors: Eunju Cha*, <strong>Hyungjin Chung*</strong>, Jaeduck Jang, Junho Lee, Eunha Lee, Jong Chul Ye
+    conference_short: ACS Nano
+    conference: ACS Nano, 2022.
+    pdf: https://pubs.acs.org/doi/10.1021/acsnano.2c00168
+    image: ./assets/img/publications/2022/acs_nano.gif
+
+  - title: "Deep Learning Model for Diagnosing Gastric Mucosal Lesions Using Endoscopic Images: Development, Validation, and Method Comparison"
+    authors: Joon Yeul Nam*, <strong>Hyungjin Chung*</strong>, Kyu Sung Choi* Hyuk Lee*, Seung Jun Han*, Tae Jun Kim, Hosim Soh, Eun Kang, Soo_jeong Cho, Jong Chul Ye, Jong Pil Im, Sang Gyun Kim, Yoon Jun Kim, Joo Sung Kim, Jung-Hwan Yoo, Hyunsoo Chung, Jeong-Hoon Lee
+    conference_short: GIE
+    conference: Gastrointestinal Endoscopy, 2021.
+    pdf: https://pubmed.ncbi.nlm.nih.gov/34492271/
+
+  - title: "Deep learning STEM-EDX tomography of nanocrystals"
+    authors: Yoseob Han*, Jaeduck Jang*, Eunju Cha*, Junho Lee*, <strong>Hyungjin Chung*</strong>, Myoungho Jeong, Tae-Gon Kim, Byeong Gyu Chae, Hee Goo Kim, Shinae Jun, Sungwoo Hwang, Eunha Lee, Jong Chul Ye
+    conference_short: Nat. Mach. Intell.
+    conference: Nature Machine Intelligence, 2021.
+    pdf: https://www.nature.com/articles/s42256-020-00289-5
+    code: https://github.com/bispl-kaist/Deep-Learning-STEM-EDX-Tomography/tree/master/Deep_Learning_STEM-EDX_Tomography
+    image: ./assets/img/publications/2021/NMI_stem.jpg
+    notes: 2021 March Issue Cover
+
+  - title: "Reusability report: Feature disentanglement in generating a three-dimensional structure from a two-dimensional slice with sliceGAN"
+    authors: <strong>Hyungjin Chung</strong>, Jong Chul Ye
+    conference_short: Nat. Mach. Intell.
+    conference: Nature Machine Intelligence, 2021.
+    pdf: https://www.nature.com/articles/s42256-021-00400-4
+    code: https://github.com/HJ-harry/SliceGAN_AdaIN
+    image: ./assets/img/publications/2021/NMI_feat.jpg
+
+  - title: "Unsupervised Deep Learning Methods for Biological Image Reconstruction and Enhancement"
+    authors: Mehmet Akcakaya, Burhaneddin Yaman, <strong>Hyungjin Chung</strong>, Jong Chul Ye
+    conference_short: IEEE SPM
+    conference: IEEE Signal Processing Magazine, 2021.
+    pdf: https://arxiv.org/abs/2105.08040
+
+  - title: "Two-Stage Deep Learning for Accelerated 3D Time-of-Flight MRA without Matched Training Data"
+    authors: <strong>Hyungjin Chung</strong>, Eunju Cha, Leonard Sunwoo, Jong Chul Ye
+    conference_short: MeDIA
+    conference: Medical Image Analysis, 2020.
+    pdf: https://www.sciencedirect.com/science/article/abs/pii/S1361841521000931
+    image: ./assets/img/publications/2020/MeDIA_TOF.jpg
+
+  - title: "Missing Cone Artifacts Removal in ODT using Unsupervised Deep Learning in Projection Domain"
+    authors: <strong>Hyungjin Chung</strong>, Jaeyoung Huh, Geon Kim, Yong Keun Park, Jong Chul Ye
+    conference_short: IEEE TCI
+    conference: IEEE Transactions on Computational Imaging, 2020.
+    pdf: https://ieeexplore.ieee.org/abstract/document/9495275?casa_token=PPwiS-5d70cAAAAA:lLEJZN6D4sB_gXBcUjZa0US4i74DES3TEVsnekm19nGxYxsn9fjNNJjJwB0773mY3SUxrnil
+    image: ./assets/img/publications/2020/TCI_missing_cone.png
+
+  - title: "Unpaired training of deep learning tMRA for flexible spatio-temporal resolution"
+    authors: Gyutaek Oh, Byeongsu Sim, <strong>Hyungjin Chung</strong>, Leonard Sunwoo, Jong Chul Ye
+    conference_short: IEEE TCI
+    conference: IEEE Transactions on Computational Imaging, 2020.
+    pdf: https://arxiv.org/abs/2008.12967
+
+  - title: "Unpaired training of deep learning tMRA for flexible spatio-temporal resolution"
+    authors: Eunju Cha, <strong>Hyungjin Chung</strong>, Eung Yeop Kim, Jong Chul Ye
+    conference_short: IEEE TMI
+    conference: IEEE Transactions on Medical Imaging, 2020.
+    pdf: https://pubmed.ncbi.nlm.nih.gov/32915733/
