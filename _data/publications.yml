@@ -1,6 +1,13 @@
 main:
+  - title: "Derivative-Free Diffusion Manifold-Constrained Gradient for Unified XAI"
+    authors: Won Jun Kim*, <strong>Hyungjin Chung*</strong>, Jaemin Kim*, Sangmin Lee, Byeongsu Sim, Jong Chul Ye
+    conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2025.
+    pdf: https://arxiv.org/abs/2411.15265
+    image: ./assets/img/publications/2025/freemcg.jpg
+
   - title: "CFG++: Manifold-constrained Classifier Free Guidance for Diffusion Models"
-    authors: <strong>Hyungjin Chung</strong>, Jeongsol Kim*, Geon Yeong Park*, Hyelin Nam*, Jong Chul Ye
+    authors: <strong>Hyungjin Chung*</strong>, Jeongsol Kim*, Geon Yeong Park*, Hyelin Nam*, Jong Chul Ye
     conference_short: ICLR
     conference: International Conference on Learning Representations, 2025.
     pdf: https://arxiv.org/abs/2406.08070

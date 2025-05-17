@@ -5,13 +5,14 @@ layout: homepage
 ## About Me
 
 I am a Research Scientist at [EverEx](https://everex.kr/), where I lead the AI research team together with [Byung-Hoon Kim](https://scholar.google.com/citations?user=E50-Aj0AAAAJ&hl=ko). 
-Before joining EverEx, I did my Ph.D. at [KAIST](https://www.kaist.ac.kr/en/) where I was advised by [Jong Chul Ye](https://bispl.weebly.com/professor.html). During my Ph.D., I also spent my time as a research intern at [NVIDIA Research](https://www.nvidia.com/en-us/research/), [Google Research](https://research.google/), and [Los Alamos National Laboratory](https://www.lanl.gov/). I pioneered and advanced some of the most widely acknowledged works on diffusion model-based inverse problem solvers. I’m interested broadly in the intersection of generative models, imaging, multimodal representations, and their applications to real-world problems.
+Before joining EverEx, I did my Ph.D. at [KAIST](https://www.kaist.ac.kr/en/) where I was advised by [Jong Chul Ye](https://bispl.weebly.com/professor.html). During my Ph.D., I also spent my time as a research intern at [NVIDIA Research](https://www.nvidia.com/en-us/research/), [Google Research](https://research.google/), and [Los Alamos National Laboratory](https://www.lanl.gov/). I pioneered and advanced some of the most widely acknowledged works on diffusion model-based inverse problem solvers. I'm interested broadly in the intersection of generative models, imaging, multimodal representations, and their applications to real-world problems.
 
-I am looking for highly motivated researchers to work with me at [EverEx](https://everex.kr/). If you are interested, send me an email with your CV attached.
+I am looking for highly motivated researchers to work with me at [EverEx](https://everex.kr/) for pushing the boundaries of video understanding using LLMs. If you are interested, send me an email with your CV attached.
 
 ## News
 
 <ul id="news-list">
+  <li><b>[2025.03]</b> A paper (<a href="https://arxiv.org/abs/2411.15265">FreeMCG</a>) is accepted to CVPR 2025.</li>
   <li><b>[2025.02]</b> <a href="https://arxiv.org/abs/2406.08070">CFG++</a> is awarded Silver prize in 31st Samsung Humantech Paper Award.</li>
   <li><b>[2025.01]</b> Two papers (<a href="https://arxiv.org/abs/2406.08070">CFG++</a>,<a href="https://arxiv.org/abs/2311.15658">TReg</a>) are accepted to ICLR 2025.</li>
   <li><b>[2024.11]</b> Defended my Ph.D. thesis! (Title: Practical approximations of posterior sampling in diffusion model-based inverse problems)</li>
@@ -42,7 +43,7 @@ I am looking for highly motivated researchers to work with me at [EverEx](https:
 <style>
   /* News 리스트 스타일 */
   #news-list {
-    font-family: "Serif", Georgia, Times, serif;
+    font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 1rem;
     line-height: 1.6;
     padding-left: 15px;
@@ -55,7 +56,7 @@ I am looking for highly motivated researchers to work with me at [EverEx](https:
   #toggle-news {
     background-color: #444; /* 다크 그레이 */
     color: white;
-    font-family: "Serif", Georgia, Times, serif;
+    font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 0.9rem;
     border: none;
     padding: 8px 14px;
