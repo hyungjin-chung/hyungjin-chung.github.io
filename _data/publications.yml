@@ -1,4 +1,29 @@
 main:
+  - title: "SteerX: Creating Any Camera-Free 3D and 4D Scenes with Geometric Steering"
+    authors: Byeongjun Park*, Hyojun Go*, Hyelin Nam, Byung-Hoon Kim <strong>Hyungjin Chung+</strong>, Changick Kim+
+    conference_short: ICCV
+    conference: IEEE/CVF International Conference on Computer Vision, 2025.
+    pdf: https://arxiv.org/abs/2503.12024
+    code: https://github.com/byeongjun-park/SteerX
+    page: https://byeongjun-park.github.io/SteerX/
+    image: ./assets/img/publications/2025/steerx.jpg
+
+  - title: "VideoRFSplat: Direct Scene-Level Text-to-3D Gaussian Splatting Generation with Flexible Pose and Multi-View Joint Modeling"
+    authors: Hyojun Go*, Byeongjun Park*, Hyelin Nam, Byung-Hoon Kim <strong>Hyungjin Chung+</strong>, Changick Kim+
+    conference_short: ICCV
+    conference: IEEE/CVF International Conference on Computer Vision, 2025.
+    pdf: https://arxiv.org/abs/2503.15855
+    code: https://github.com/gohyojun15/VideoRFSplat
+    page: https://gohyojun15.github.io/VideoRFSplat/
+    image: ./assets/img/publications/2025/videorfsplat.jpg
+
+  - title: "CapeLLM: Support-Free Category-Agnostic Pose Estimation with Multimodal Large Language Models"
+    authors: Junho Kim, <strong>Hyungjin Chung+</strong>, Byung-Hoon Kim+
+    conference_short: ICCV
+    conference: IEEE/CVF International Conference on Computer Vision, 2025.
+    pdf: https://arxiv.org/abs/2411.06869
+    image: ./assets/img/publications/2025/capellm.jpg
+
   - title: "Derivative-Free Diffusion Manifold-Constrained Gradient for Unified XAI"
     authors: Won Jun Kim*, <strong>Hyungjin Chung*</strong>, Jaemin Kim*, Sangmin Lee, Byeongsu Sim, Jong Chul Ye
     conference_short: CVPR
