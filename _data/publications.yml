@@ -6,7 +6,7 @@ main:
     pdf: https://arxiv.org/abs/2503.12024
     code: https://github.com/byeongjun-park/SteerX
     page: https://byeongjun-park.github.io/SteerX/
-    image: ./assets/img/publications/2025/steerx.jpg
+    image: ./assets/img/publications/2025/steerx.png
 
   - title: "VideoRFSplat: Direct Scene-Level Text-to-3D Gaussian Splatting Generation with Flexible Pose and Multi-View Joint Modeling"
     authors: Hyojun Go*, Byeongjun Park*, Hyelin Nam, Byung-Hoon Kim <strong>Hyungjin Chung+</strong>, Changick Kim+
