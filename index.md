@@ -4,19 +4,20 @@ layout: homepage
 
 ## About Me
 
-I am a Lead AI Research Scientist at [EverEx](https://everex.kr/). Before joining EverEx, I did my Ph.D. at [KAIST](https://www.kaist.ac.kr/en/) where I was advised by [Jong Chul Ye](https://bispl.weebly.com/professor.html). During my Ph.D., I also spent my time as a research intern at [NVIDIA Research](https://www.nvidia.com/en-us/research/), [Google Research](https://research.google/), and [Los Alamos National Laboratory](https://www.lanl.gov/). I pioneered and advanced some of the most widely acknowledged works on diffusion model-based inverse problem solvers. I'm interested broadly in the intersection of generative models, imaging, multimodality, and their applications to real-world problems.
+I am a Lead AI Research Scientist at [EverEx](https://everex.kr/), leading the AI team together with [Byung-Hoon Kim](https://egyptdj.notion.site/NAIPL-f6283de309a04223b1c04793f5a10ce1). Before joining EverEx, I did my Ph.D. at [KAIST](https://www.kaist.ac.kr/en/) where I was advised by [Jong Chul Ye](https://bispl.weebly.com/professor.html). During my Ph.D., I also spent my time as a research intern at [NVIDIA Research](https://www.nvidia.com/en-us/research/), [Google Research](https://research.google/), and [Los Alamos National Laboratory](https://www.lanl.gov/). I pioneered and advanced some of the most widely acknowledged works on diffusion model-based inverse problem solvers. I'm interested broadly in the intersection of generative models, imaging, multimodality, and their applications to real-world problems.
 
-I am looking for highly motivated researchers to work with me at [EverEx](https://everex.kr/) for pushing the boundaries of video understanding LLMs. If you are interested, send me an email with your CV attached.
+I am looking for highly motivated researchers to work with me at [EverEx](https://everex.kr/) for pushing the boundaries of understanding and generation of videos. If you are interested, send me an email with your CV attached.
 
 ## News
 
 <ul id="news-list">
-  <li><b>[2025.03]</b> 3 papers (<a href="https://arxiv.org/abs/2503.12024">SteerX</a>, <a href="https://arxiv.org/abs/2503.15855">VideoRFSplat</a>, <a href="https://arxiv.org/abs/2411.06869">CapeLLM</a>) are accepted to ICCV 2025.</li>
+  <li><b>[2025.10]</b> A paper (<a href="https://arxiv.org/abs/2504.01689">InvFusion</a>) is accepted to NeurIPS 2025.</li>
+  <li><b>[2025.06]</b> 3 papers (<a href="https://arxiv.org/abs/2503.12024">SteerX</a>, <a href="https://arxiv.org/abs/2503.15855">VideoRFSplat</a>, <a href="https://arxiv.org/abs/2411.06869">CapeLLM</a>) are accepted to ICCV 2025.</li>
   <li><b>[2025.03]</b> A paper (<a href="https://arxiv.org/abs/2411.15265">FreeMCG</a>) is accepted to CVPR 2025.</li>
   <li><b>[2025.02]</b> <a href="https://arxiv.org/abs/2406.08070">CFG++</a> is awarded Silver prize in 31st Samsung Humantech Paper Award.</li>
   <li><b>[2025.01]</b> Two papers (<a href="https://arxiv.org/abs/2406.08070">CFG++</a>,<a href="https://arxiv.org/abs/2311.15658">TReg</a>) are accepted to ICLR 2025.</li>
-  <li><b>[2024.11]</b> Defended my Ph.D. thesis! (Title: Practical approximations of posterior sampling in diffusion model-based inverse problems)</li>
   <div id="more-news" style="display: none;">
+    <li><b>[2024.11]</b> Defended my Ph.D. thesis! (Title: Practical approximations of posterior sampling in diffusion model-based inverse problems)</li>
     <li><b>[2024.08]</b> I joined <a href="https://everex.kr/">EverEx</a> as a research scientist.</li>
     <li><b>[2024.07]</b> A paper (<a href="https://arxiv.org/abs/2310.01110">P2L</a>) is accepted to ICML 2024.</li>
     <li><b>[2024.06]</b> A paper (<a href="https://arxiv.org/abs/2407.10641">DDIP</a>) is accepted to ECCV 2024.</li>

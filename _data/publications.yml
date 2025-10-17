@@ -1,4 +1,12 @@
 main:
+  - title: "InvFusion: Bridging Supervised and Zero-shot Diffusion for Inverse Problems"
+    authors: Noam Elata*, <strong>Hyungjin Chung*</strong>, Jong Chul Ye, Tomer Michaeli, Michael Elad
+    conference_short: NeurIPS
+    conference: Advances in Neural Information Processing Systems, 2025.
+    pdf: https://arxiv.org/abs/2504.01689
+    code: https://github.com/noamelata/InvFusion
+    image: /assets/img/publications/2025/invfusion.png
+
   - title: "SteerX: Creating Any Camera-Free 3D and 4D Scenes with Geometric Steering"
     authors: Byeongjun Park*, Hyojun Go*, Hyelin Nam, Byung-Hoon Kim <strong>Hyungjin Chung+</strong>, Changick Kim+
     conference_short: ICCV
@@ -22,6 +30,7 @@ main:
     conference_short: ICCV
     conference: IEEE/CVF International Conference on Computer Vision, 2025.
     pdf: https://arxiv.org/abs/2411.06869
+    code: https://github.com/Junhojuno/CapeLLM
     image: /assets/img/publications/2025/capellm.jpg
 
   - title: "Derivative-Free Diffusion Manifold-Constrained Gradient for Unified XAI"
