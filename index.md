@@ -8,6 +8,8 @@ I am a Lead AI Research Scientist at [EverEx](https://everex.kr/), leading the A
 
 I am looking for highly motivated researchers to work with me at [EverEx](https://everex.kr/) for pushing the boundaries of understanding and generation of videos. If you are interested, send me an email with your CV attached.
 
+I also hold office hours weekly on Friday. From research collaborations to informal coffee chat and mentorships, please sign up [here](https://calendly.com/hyungjin-chg/30min)
+
 ## News
 
 <ul id="news-list">
