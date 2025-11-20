@@ -13,7 +13,7 @@ I also hold office hours weekly on Friday. From research collaborations to infor
 ## News
 
 <ul id="news-list">
-  <li><b>[2025.11]</b> I was selected as a (<a href="https://www.elsevier.com/ko-kr/promotions/worlds-top-researchers">World Top 2% Scientist</a>).</li>
+  <li><b>[2025.11]</b> I was selected as a <a href="https://www.elsevier.com/ko-kr/promotions/worlds-top-researchers">World Top 2% Scientist</a>.</li>
   <li><b>[2025.10]</b> A paper (<a href="https://arxiv.org/abs/2504.01689">InvFusion</a>) is accepted to NeurIPS 2025.</li>
   <li><b>[2025.06]</b> 3 papers (<a href="https://arxiv.org/abs/2503.12024">SteerX</a>, <a href="https://arxiv.org/abs/2503.15855">VideoRFSplat</a>, <a href="https://arxiv.org/abs/2411.06869">CapeLLM</a>) are accepted to ICCV 2025.</li>
   <li><b>[2025.03]</b> A paper (<a href="https://arxiv.org/abs/2411.15265">FreeMCG</a>) is accepted to CVPR 2025.</li>
