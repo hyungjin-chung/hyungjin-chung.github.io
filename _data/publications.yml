@@ -1,6 +1,6 @@
 main:
   - title: "Stochastic Optimal Control for Continuous-Time fMRI Representation Learning"
-    authors: Joonhyeong Park*, Byoungwoo Park, Chang-Bae bang, Jungwon Choi, <strong>Hyungjin Chung*</strong>, Byung-Hoon Kim+, Juho Lee+
+    authors: Joonhyeong Park*, Byoungwoo Park, Chang-Bae bang, Jungwon Choi, <strong>Hyungjin Chung</strong>, Byung-Hoon Kim+, Juho Lee+
     conference_short: ICLR
     conference: International Conference on Learning Representations, 2026.
     pdf: https://openreview.net/forum?id=N51nP3TBwR
