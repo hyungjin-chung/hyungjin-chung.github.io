@@ -15,6 +15,7 @@ I also hold office hours weekly on Friday. From research collaborations to infor
 ## News
 
 <ul id="news-list">
+  <li><b>[2026.02]</b> 2 papers (<a href="https://arxiv.org/abs/2511.19827">ReDirector</a> - main, <a href="https://arxiv.org/abs/2509.08016">VPS</a> - findings) is accepted to CVPR 2026.</li>
   <li><b>[2026.02]</b> A paper (<a href="https://openreview.net/forum?id=N51nP3TBwR">BDO</a>) is accepted to ICLR 2026.</li>
   <li><b>[2025.11]</b> I was selected as a <a href="https://www.elsevier.com/ko-kr/promotions/worlds-top-researchers">World Top 2% Scientist</a>.</li>
   <li><b>[2025.10]</b> A paper (<a href="https://arxiv.org/abs/2504.01689">InvFusion</a>) is accepted to NeurIPS 2025.</li>

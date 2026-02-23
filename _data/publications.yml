@@ -1,4 +1,21 @@
 main:
+  - title: "ReDirector: Robust Video Diffusion with Reversible Frame Reordering"
+    authors: Byeongjun Park, Byung-Hoon Kim, <strong>Hyungjin Chung</strong>+, Jong Chul Ye+
+    conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2026.
+    pdf: https://arxiv.org/abs/2511.19827
+    code: https://github.com/byeongjun-park/ReDirector
+    page: https://byeongjun-park.github.io/ReDirector/
+    image: /assets/img/publications/2026/redirector.jpg
+
+  - title: "Video Parallel Scaling: Aggregating Diverse Frame Subsets for VideoLLMs"
+    authors: <strong>Hyungjin Chung</strong>, Hyelin Nam, Jiyeon Kim, Hyojun Go, Byeongjun Park, Junho Kim, Joonseok Lee, Seongsu Ha, Byung-Hoon Kim
+    conference_short: CVPR Findings
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2026.
+    pdf: https://arxiv.org/abs/2509.08016
+    code: https://github.com/hyungjin-chung/VPS
+    image: /assets/img/publications/2026/vps.png
+
   - title: "Stochastic Optimal Control for Continuous-Time fMRI Representation Learning"
     authors: Joonhyeong Park*, Byoungwoo Park, Chang-Bae bang, Jungwon Choi, <strong>Hyungjin Chung</strong>, Byung-Hoon Kim+, Juho Lee+
     conference_short: ICLR
