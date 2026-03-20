@@ -6,9 +6,7 @@ layout: homepage
 
 I am joining the [Department of Computer Science and Engineering at Korea University](https://cs.korea.edu/en_cs/index.do) as an Assistant Professor in Fall 2026. Until that, I am spending my gap year as a Lead AI Research Scientist at [EverEx](https://everex.kr/), leading the AI team together with [Byung-Hoon Kim](https://egyptdj.notion.site/NAIPL-f6283de309a04223b1c04793f5a10ce1). Before joining EverEx, I did my Ph.D. at [KAIST](https://www.kaist.ac.kr/en/) where I was advised by [Jong Chul Ye](https://bispl.weebly.com/professor.html). During my Ph.D., I also spent my time as a research intern at [NVIDIA Research](https://www.nvidia.com/en-us/research/), [Google Research](https://research.google/), and [Los Alamos National Laboratory](https://www.lanl.gov/). I pioneered and advanced some of the most widely acknowledged works on diffusion model-based inverse problem solvers. I'm interested broadly in the intersection of generative models, imaging, multimodality, and their applications to real-world problems.
 
-I am looking for highly motivated researchers to work with me at [EverEx](https://everex.kr/) for pushing the boundaries of understanding and generation of videos. If you are interested, send me an email with your CV attached.
-
-**I am also looking for postdocs to work with me through [InnoCORE](https://www.innocore-jobfair.com/research-recruitment-areas), starting May 2026. Base salary starts with 90,000,000 KRW/yr.**
+I am looking for highly motivated students/researchers to join our group. If you are interested, send me an email with your CV attached. I am also looking for postdocs to work with me, starting May 2026.
 
 I also hold office hours weekly on Friday. From research collaborations to informal coffee chat and mentorships, please sign up [here](https://calendly.com/hyungjin-chg/30min)
 
