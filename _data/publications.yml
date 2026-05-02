@@ -1,4 +1,11 @@
 main:
+  - title: "ContrastiveCFG: Guiding Diffusion Sampling by Contrasting Positive and Negative Concepts"
+    authors: Jinho Chang, Changsun Lee, <strong>Hyungjin Chung</strong>, Jong Chul Ye
+    conference_short: ICML
+    conference: International Conference on Machine Learning, 2026.
+    pdf: https://arxiv.org/abs/2411.17077
+    image: /assets/img/publications/2026/ccfg.png
+
   - title: "ReDirector: Robust Video Diffusion with Reversible Frame Reordering"
     authors: Byeongjun Park, Byung-Hoon Kim, <strong>Hyungjin Chung</strong>+, Jong Chul Ye+
     conference_short: CVPR
