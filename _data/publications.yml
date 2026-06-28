@@ -1,4 +1,19 @@
 main:
+  - title: "InverseCrafter: Efficient Video ReCapture as a Latent Domain Inverse Problem"
+    authors: Yeobin Hong*, Suhyeon Lee*, <strong>Hyungjin Chung</strong>+, Jong Chul Ye+
+    conference_short: ECCV
+    conference: European Conference on Computer Vision, 2026.
+    pdf: https://arxiv.org/abs/2512.05672
+    code: https://github.com/yeobinhong/InverseCrafter
+    image: /assets/img/publications/2026/inversecrafter.jpg
+
+  - title: "ReDesign: Recovering Editable Design Structures from Raster Images via Agentic Decomposition"
+    authors: Jooyeol Yun, Jintae Park, Hyesu Lim, Junha Hyung, <strong>Hyungjin Chung</strong>, Jaegul Choo
+    conference_short: ECCV
+    conference: European Conference on Computer Vision, 2026.
+    pdf: https://openreview.net/forum?id=JiEr8B3WBr&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Dthecvf.com%2FECCV%2F2026%2FConference%2FAuthors%23your-submissions)
+    image: /assets/img/publications/2026/redesign.jpg
+
   - title: "ContrastiveCFG: Guiding Diffusion Sampling by Contrasting Positive and Negative Concepts"
     authors: Jinho Chang, Changsun Lee, <strong>Hyungjin Chung</strong>, Jong Chul Ye
     conference_short: ICML

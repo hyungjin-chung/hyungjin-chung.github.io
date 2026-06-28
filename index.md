@@ -13,14 +13,15 @@ I also hold office hours weekly on Friday. From research collaborations to infor
 ## News
 
 <ul id="news-list">
+  <li><b>[2026.06]</b> 2 papers (<a href="https://arxiv.org/abs/2512.05672">InverseCrafter</a>, ReDesign) are accepted to ECCV 2026.</li>
   <li><b>[2026.05]</b> I was recognized as a Gold Reviewer for ICML 2026.</li>
   <li><b>[2026.05]</b> A paper (<a href="https://arxiv.org/abs/2411.17077">Contrastive CFG</a>) is accepted to ICML 2026.</li>
   <li><b>[2026.04]</b> 2 papers (<a href="https://arxiv.org/abs/2511.19827">ReDirector</a> - main, <a href="https://arxiv.org/abs/2509.08016">VPS</a> - findings) are accepted to CVPR 2026.</li>
   <li><b>[2026.02]</b> A paper (<a href="https://openreview.net/forum?id=N51nP3TBwR">BDO</a>) is accepted to ICLR 2026.</li>
   <li><b>[2025.11]</b> I was selected as a <a href="https://www.elsevier.com/ko-kr/promotions/worlds-top-researchers">World Top 2% Scientist</a>.</li>
-  <li><b>[2025.10]</b> A paper (<a href="https://arxiv.org/abs/2504.01689">InvFusion</a>) is accepted to NeurIPS 2025.</li>
-  <li><b>[2025.06]</b> 3 papers (<a href="https://arxiv.org/abs/2503.12024">SteerX</a>, <a href="https://arxiv.org/abs/2503.15855">VideoRFSplat</a>, <a href="https://arxiv.org/abs/2411.06869">CapeLLM</a>) are accepted to ICCV 2025.</li>
   <div id="more-news" style="display: none;">
+    <li><b>[2025.10]</b> A paper (<a href="https://arxiv.org/abs/2504.01689">InvFusion</a>) is accepted to NeurIPS 2025.</li>
+    <li><b>[2025.06]</b> 3 papers (<a href="https://arxiv.org/abs/2503.12024">SteerX</a>, <a href="https://arxiv.org/abs/2503.15855">VideoRFSplat</a>, <a href="https://arxiv.org/abs/2411.06869">CapeLLM</a>) are accepted to ICCV 2025.</li>
     <li><b>[2025.03]</b> A paper (<a href="https://arxiv.org/abs/2411.15265">FreeMCG</a>) is accepted to CVPR 2025.</li>
     <li><b>[2025.02]</b> <a href="https://arxiv.org/abs/2406.08070">CFG++</a> is awarded Silver prize in 31st Samsung Humantech Paper Award.</li>
     <li><b>[2025.01]</b> Two papers (<a href="https://arxiv.org/abs/2406.08070">CFG++</a>,<a href="https://arxiv.org/abs/2311.15658">TReg</a>) are accepted to ICLR 2025.</li>
