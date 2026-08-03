@@ -4,11 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am joining the [Department of Computer Science and Engineering at Korea University](https://cs.korea.edu/en_cs/index.do) as an Assistant Professor in Fall 2026. Until that, I am spending my gap year as a Lead AI Research Scientist at [EverEx](https://everex.kr/), leading the AI team together with [Byung-Hoon Kim](https://egyptdj.notion.site/NAIPL-f6283de309a04223b1c04793f5a10ce1). Before joining EverEx, I did my Ph.D. at [KAIST](https://www.kaist.ac.kr/en/) where I was advised by [Jong Chul Ye](https://bispl.weebly.com/professor.html). During my Ph.D., I also spent my time as a research intern at [NVIDIA Research](https://www.nvidia.com/en-us/research/), [Google Research](https://research.google/), and [Los Alamos National Laboratory](https://www.lanl.gov/). I pioneered and advanced some of the most widely acknowledged works on diffusion model-based inverse problem solvers. I'm interested broadly in the intersection of generative models, imaging, multimodality, and their applications to real-world problems.
+I am an Assistant Professor at the [Department of Computer Science and Engineering at Korea University](https://cs.korea.edu/en_cs/index.do), where I lead [Intelligence Lab](https://ku-intelligence-lab.github.io/). I am also the Director of Research at [EverEx](https://everex.kr/), leading the AI research efforts. I did my Ph.D. at [KAIST](https://www.kaist.ac.kr/en/) where I was advised by [Jong Chul Ye](https://bispl.weebly.com/professor.html). During my Ph.D., I also spent my time as a research intern at [NVIDIA Research](https://www.nvidia.com/en-us/research/), [Google Research](https://research.google/), and [Los Alamos National Laboratory](https://www.lanl.gov/). I pioneered and advanced some of the most widely acknowledged works on diffusion model-based inverse problem solvers. I'm interested broadly in the Generative AI and Agents, with applications to real-world problems.
 
-I am looking for highly motivated students/researchers to join our group. If you are interested, send me an email with your CV attached. I am also looking for postdocs to work with me, starting Summer 2026.
-
-I also hold office hours weekly on Friday. From research collaborations to informal coffee chat and mentorships, please sign up [here](https://calendly.com/hyungjin-chg/30min)
+I am looking for highly motivated students/researchers to join our group, both at KU and at EverEx. If you are interested, send me an email with your CV attached. I am also looking for postdocs to work with me, starting Summer 2026.
 
 ## News
 
