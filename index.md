@@ -4,20 +4,22 @@ layout: homepage
 
 ## About Me
 
-I am an Assistant Professor at the [Department of Computer Science and Engineering at Korea University](https://cs.korea.edu/en_cs/index.do), where I lead [PRISM Lab](https://ku-prism-lab.github.io/). I am also the Director of Research at [EverEx](https://everex.kr/), leading the AI research efforts. I did my Ph.D. at [KAIST](https://www.kaist.ac.kr/en/) where I was advised by [Jong Chul Ye](https://bispl.weebly.com/professor.html). During my Ph.D., I also spent my time as a research intern at [NVIDIA Research](https://www.nvidia.com/en-us/research/), [Google Research](https://research.google/), and [Los Alamos National Laboratory](https://www.lanl.gov/). I pioneered and advanced some of the most widely acknowledged works on diffusion model-based inverse problem solvers. I'm interested broadly in the Generative AI and Agents, with applications to real-world problems.
+I am an Assistant Professor at the [Department of Computer Science and Engineering at Korea University](https://cs.korea.edu/en_cs/index.do), where I lead [PRISM Lab](http://prism.korea.ac.kr/). I am also the Director of Research at [EverEx](https://everex.kr/), leading the AI research efforts. I did my Ph.D. at [KAIST](https://www.kaist.ac.kr/en/) where I was advised by [Jong Chul Ye](https://bispl.weebly.com/professor.html). During my Ph.D., I also spent my time as a research intern at [NVIDIA Research](https://www.nvidia.com/en-us/research/), [Google Research](https://research.google/), and [Los Alamos National Laboratory](https://www.lanl.gov/). I pioneered and advanced some of the most widely acknowledged works on diffusion model-based inverse problem solvers. I'm interested broadly in the Generative AI and Agents, with applications to real-world problems.
 
 I am looking for highly motivated students/researchers to join our group, both at KU and at EverEx. If you are interested, send me an email with your CV attached. I am also looking for postdocs to work with me, starting Summer 2026.
 
 ## News
 
 <ul id="news-list">
+  <li><b>[2026.09]</b> I am serving as an Area Chair for ICLR 2027.</li>
+  <li><b>[2026.09]</b> 4 papers (<a href="https://arxiv.org/abs/2605.20624">AVIS</a>, <a href="https://arxiv.org/abs/2605.19804">StitchVM</a>, <a href="https://arxiv.org/abs/2606.17048">EPS</a> - main, MVVBench - E&D) are accepted to NeurIPS 2026.</li>
   <li><b>[2026.06]</b> 2 papers (<a href="https://arxiv.org/abs/2512.05672">InverseCrafter</a>, ReDesign) are accepted to ECCV 2026.</li>
   <li><b>[2026.05]</b> I was recognized as a Gold Reviewer for ICML 2026.</li>
   <li><b>[2026.05]</b> A paper (<a href="https://arxiv.org/abs/2411.17077">Contrastive CFG</a>) is accepted to ICML 2026.</li>
   <li><b>[2026.04]</b> 2 papers (<a href="https://arxiv.org/abs/2511.19827">ReDirector</a> - main, <a href="https://arxiv.org/abs/2509.08016">VPS</a> - findings) are accepted to CVPR 2026.</li>
-  <li><b>[2026.02]</b> A paper (<a href="https://openreview.net/forum?id=N51nP3TBwR">BDO</a>) is accepted to ICLR 2026.</li>
-  <li><b>[2025.11]</b> I was selected as a <a href="https://www.elsevier.com/ko-kr/promotions/worlds-top-researchers">World Top 2% Scientist</a>.</li>
   <div id="more-news" style="display: none;">
+    <li><b>[2026.02]</b> A paper (<a href="https://openreview.net/forum?id=N51nP3TBwR">BDO</a>) is accepted to ICLR 2026.</li>
+    <li><b>[2025.11]</b> I was selected as a <a href="https://www.elsevier.com/ko-kr/promotions/worlds-top-researchers">World Top 2% Scientist</a>.</li>
     <li><b>[2025.10]</b> A paper (<a href="https://arxiv.org/abs/2504.01689">InvFusion</a>) is accepted to NeurIPS 2025.</li>
     <li><b>[2025.06]</b> 3 papers (<a href="https://arxiv.org/abs/2503.12024">SteerX</a>, <a href="https://arxiv.org/abs/2503.15855">VideoRFSplat</a>, <a href="https://arxiv.org/abs/2411.06869">CapeLLM</a>) are accepted to ICCV 2025.</li>
     <li><b>[2025.03]</b> A paper (<a href="https://arxiv.org/abs/2411.15265">FreeMCG</a>) is accepted to CVPR 2025.</li>

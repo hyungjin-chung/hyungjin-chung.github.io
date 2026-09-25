@@ -1,4 +1,34 @@
 main:
+  - title: "Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models"
+    authors: Taesung Kwon*, Jonghyun Park*, <strong>Hyungjin Chung</strong>+, Jong Chul Ye+
+    conference_short: NeurIPS
+    conference: Advances in Neural Information Processing Systems, 2026.
+    pdf: https://arxiv.org/abs/2605.20624
+    page: https://avis-project.github.io/
+    image: /assets/img/publications/2026/avis.jpg
+
+  - title: "Stitched Value Model for Diffusion Alignment"
+    authors: Hyojun Go, <strong>Hyungjin Chung</strong>+, Prune Truong, Goutam Bhat, Li Mi, Zhaochong An, Zixiang Zhao+, Dominik Narnhofer, Serge Belongie, Federico Tombari, Konrad Schindler
+    conference_short: NeurIPS
+    conference: Advances in Neural Information Processing Systems, 2026.
+    pdf: https://arxiv.org/abs/2605.19804
+    code: https://github.com/prs-eth/StitchVM
+    page: https://gohyojun15.github.io/StitchVM/
+    image: /assets/img/publications/2026/stitchvm.png
+
+  - title: "Exact Posterior Score Estimation for Solving Linear Inverse Problems"
+    authors: Abbas Mammadov, Ozgur Kara, Kaan Oktay, Iskander Azangulov, Adil Kaan Akan, <strong>Hyungjin Chung</strong>, James Matthew Rehg, Yee Whye Teh
+    conference_short: NeurIPS
+    conference: Advances in Neural Information Processing Systems, 2026.
+    pdf: https://arxiv.org/abs/2606.17048
+    image: /assets/img/publications/2026/eps.jpg
+
+  - title: "MVVBench: Benchmarking 4D Reasoning in Vision-Language Models"
+    authors: <strong>Hyungjin Chung*</strong>, Byeongjun Park*, Joonseok Lee, Hojun Kim, Jaeho Choi, Byung-Hoon Kim
+    conference_short: NeurIPS E&D
+    conference: Advances in Neural Information Processing Systems (Evaluations & Datasets Track), 2026.
+    image: /assets/img/publications/2026/mvvbench.jpg
+
   - title: "InverseCrafter: Efficient Video ReCapture as a Latent Domain Inverse Problem"
     authors: Yeobin Hong*, Suhyeon Lee*, <strong>Hyungjin Chung</strong>+, Jong Chul Ye+
     conference_short: ECCV
