@@ -11,8 +11,8 @@ I am looking for highly motivated students/researchers to join our group, both a
 ## News
 
 <ul id="news-list">
-  <li><b>[2026.09]</b> I am serving as an Area Chair for ICLR 2027.</li>
   <li><b>[2026.09]</b> 4 papers (<a href="https://arxiv.org/abs/2605.20624">AVIS</a>, <a href="https://arxiv.org/abs/2605.19804">StitchVM</a>, <a href="https://arxiv.org/abs/2606.17048">EPS</a> - main, MVVBench - E&D) are accepted to NeurIPS 2026.</li>
+  <li><b>[2026.09]</b> I am serving as an Area Chair for ICLR 2027.</li>
   <li><b>[2026.06]</b> 2 papers (<a href="https://arxiv.org/abs/2512.05672">InverseCrafter</a>, ReDesign) are accepted to ECCV 2026.</li>
   <li><b>[2026.05]</b> I was recognized as a Gold Reviewer for ICML 2026.</li>
   <li><b>[2026.05]</b> A paper (<a href="https://arxiv.org/abs/2411.17077">Contrastive CFG</a>) is accepted to ICML 2026.</li>
