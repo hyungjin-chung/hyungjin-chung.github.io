@@ -27,6 +27,8 @@ main:
     authors: <strong>Hyungjin Chung*</strong>, Byeongjun Park*, Joonseok Lee, Hojun Kim, Jaeho Choi, Byung-Hoon Kim
     conference_short: NeurIPS E&D
     conference: Advances in Neural Information Processing Systems (Evaluations & Datasets Track), 2026.
+    pdf: https://arxiv.org/abs/2609.30952
+    benchmark: https://huggingface.co/datasets/everex/MVVBench
     image: /assets/img/publications/2026/mvvbench.jpg
 
   - title: "InverseCrafter: Efficient Video ReCapture as a Latent Domain Inverse Problem"
