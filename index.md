@@ -11,7 +11,7 @@ I am looking for highly motivated students/researchers to join our group, both a
 ## News
 
 <ul id="news-list">
-  <li><b>[2026.10]</b> I was again selected as a <a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/9">World Top 2% Scientist</a>.</li>
+  <li><b>[2026.10]</b> I was selected as a World Top 2% Scientist (<a href="https://www.elsevier.com/ko-kr/promotions/worlds-top-researchers">2025</a> / <a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/9">2026</a>).</li>
   <li><b>[2026.09]</b> 4 papers (<a href="https://arxiv.org/abs/2605.20624">AVIS</a>, <a href="https://arxiv.org/abs/2605.19804">StitchVM</a>, <a href="https://arxiv.org/abs/2606.17048">EPS</a> - main, <a href="https://arxiv.org/abs/2609.30952">MVVBench</a> - E&D) are accepted to NeurIPS 2026.</li>
   <li><b>[2026.09]</b> I am serving as an Area Chair for ICLR 2027.</li>
   <li><b>[2026.06]</b> 2 papers (<a href="https://arxiv.org/abs/2512.05672">InverseCrafter</a>, ReDesign) are accepted to ECCV 2026.</li>
@@ -20,7 +20,6 @@ I am looking for highly motivated students/researchers to join our group, both a
   <div id="more-news" style="display: none;">
     <li><b>[2026.04]</b> 2 papers (<a href="https://arxiv.org/abs/2511.19827">ReDirector</a> - main, <a href="https://arxiv.org/abs/2509.08016">VPS</a> - findings) are accepted to CVPR 2026.</li>
     <li><b>[2026.02]</b> A paper (<a href="https://openreview.net/forum?id=N51nP3TBwR">BDO</a>) is accepted to ICLR 2026.</li>
-    <li><b>[2025.11]</b> I was selected as a <a href="https://www.elsevier.com/ko-kr/promotions/worlds-top-researchers">World Top 2% Scientist</a>.</li>
     <li><b>[2025.10]</b> A paper (<a href="https://arxiv.org/abs/2504.01689">InvFusion</a>) is accepted to NeurIPS 2025.</li>
     <li><b>[2025.06]</b> 3 papers (<a href="https://arxiv.org/abs/2503.12024">SteerX</a>, <a href="https://arxiv.org/abs/2503.15855">VideoRFSplat</a>, <a href="https://arxiv.org/abs/2411.06869">CapeLLM</a>) are accepted to ICCV 2025.</li>
     <li><b>[2025.03]</b> A paper (<a href="https://arxiv.org/abs/2411.15265">FreeMCG</a>) is accepted to CVPR 2025.</li>
