@@ -1,4 +1,12 @@
 main:
+  - title: "ContextMRI: Enhancing Compressed Sensing MRI through Metadata Conditioning"
+    authors: <strong>Hyungjin Chung*</strong>, Dohun Lee*, Zihui Wu, Byung-Hoon Kim, Katherine L. Bouman, Jong Chul Ye
+    conference_short: MeDIA
+    conference: Medical Image Analysis, 2026.
+    pdf: https://arxiv.org/abs/2501.04284
+    code: https://github.com/DoHunLee1/ContextMRI
+    image: /assets/img/publications/2026/contextmri.jpg
+
   - title: "Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models"
     authors: Taesung Kwon*, Jonghyun Park*, <strong>Hyungjin Chung</strong>+, Jong Chul Ye+
     conference_short: NeurIPS
