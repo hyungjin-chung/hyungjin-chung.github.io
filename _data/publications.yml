@@ -1,4 +1,12 @@
 main:
+  - title: "Align Your Query: Representation Alignment for Multimodality Medical Object Detection"
+    authors: Ara Seo*, Bryan Sangwoo Kim*, <strong>Hyungjin Chung</strong>, Jong Chul Ye
+    conference_short: WACV
+    conference: IEEE/CVF Winter Conference on Applications of Computer Vision (Applications Track), 2027.
+    pdf: https://arxiv.org/abs/2510.02789
+    page: https://araseo.github.io/alignyourquery/
+    image: /assets/img/publications/2027/alignyourquery.jpg
+
   - title: "ContextMRI: Enhancing Compressed Sensing MRI through Metadata Conditioning"
     authors: <strong>Hyungjin Chung*</strong>, Dohun Lee*, Zihui Wu, Byung-Hoon Kim, Katherine L. Bouman, Jong Chul Ye
     conference_short: MeDIA
