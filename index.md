@@ -12,7 +12,7 @@ I am looking for highly motivated students/researchers to join our group, both a
 
 <ul id="news-list">
   <li><b>[2026.10]</b> A paper (<a href="https://arxiv.org/abs/2501.04284">ContextMRI</a>) is accepted to Medical Image Analysis.</li>
-  <li><b>[2026.10]</b> I was selected as a <a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/9">World Top 2% Scientist 2026</a>.</li>
+  <li><b>[2026.10]</b> I was selected as a <a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/9">World Top 2% Scientist 2026</a>, ranking <b>3rd in Korea</b> in both AI and ICT by citations to single- and first-authored papers.</li>
   <li><b>[2026.09]</b> 4 papers (<a href="https://arxiv.org/abs/2605.20624">AVIS</a>, <a href="https://arxiv.org/abs/2605.19804">StitchVM</a>, <a href="https://arxiv.org/abs/2606.17048">EPS</a> - main, <a href="https://arxiv.org/abs/2609.30952">MVVBench</a> - E&D) are accepted to NeurIPS 2026.</li>
   <li><b>[2026.09]</b> I am serving as an Area Chair for ICLR 2027.</li>
   <li><b>[2026.06]</b> 2 papers (<a href="https://arxiv.org/abs/2512.05672">InverseCrafter</a>, ReDesign) are accepted to ECCV 2026.</li>
