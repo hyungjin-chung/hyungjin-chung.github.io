@@ -10,8 +10,8 @@ main:
   - title: "ContextMRI: Enhancing Compressed Sensing MRI through Metadata Conditioning"
     authors: <strong>Hyungjin Chung*</strong>, Dohun Lee*, Zihui Wu, Byung-Hoon Kim, Katherine L. Bouman, Jong Chul Ye
     conference_short: MeDIA
-    conference: Medical Image Analysis, 2026.
-    pdf: https://arxiv.org/abs/2501.04284
+    conference: Medical Image Analysis, 2027.
+    pdf: https://www.sciencedirect.com/science/article/pii/S1361841526004226
     code: https://github.com/DoHunLee1/ContextMRI
     image: /assets/img/publications/2026/contextmri.jpg
 
