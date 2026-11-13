@@ -15,6 +15,13 @@ main:
     code: https://github.com/DoHunLee1/ContextMRI
     image: /assets/img/publications/2026/contextmri.jpg
 
+  - title: "Accurate 3D Brain Cross-Modality Image Translation by Lesion-Aware Post-Training of Latent Diffusion Models with Voxel-Space Objectives"
+    authors: Junhyeok Lee, Hyunwoong Kim, <strong>Hyungjin Chung</strong>, Heeseong Eom, Joon Jang, Chul-Ho Sohn, Kyu Sung Choi
+    conference_short: NeuroImage
+    conference: NeuroImage, 2027.
+    pdf: https://arxiv.org/abs/2510.09056
+    image: /assets/img/publications/2027/cldm-pt.jpg
+
   - title: "Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models"
     authors: Taesung Kwon*, Jonghyun Park*, <strong>Hyungjin Chung</strong>+, Jong Chul Ye+
     conference_short: NeurIPS

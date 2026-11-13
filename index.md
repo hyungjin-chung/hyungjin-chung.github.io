@@ -11,36 +11,37 @@ I am looking for highly motivated students/researchers to join our group, both a
 ## News
 
 <ul id="news-list">
-  <li><b>[2026.10]</b> A paper (<a href="https://arxiv.org/abs/2501.04284">ContextMRI</a>) is accepted to Medical Image Analysis.</li>
+  <li><b>[2026.11]</b> <a href="https://arxiv.org/abs/2510.09056">cLDM-PT</a> is accepted to NeuroImage.</li>
+  <li><b>[2026.10]</b> <a href="https://arxiv.org/abs/2501.04284">ContextMRI</a> is accepted to Medical Image Analysis.</li>
   <li><b>[2026.10]</b> I was selected as a <a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/9">World Top 2% Scientist 2026</a>, ranking <b>3rd in Korea</b> in both AI and ICT by citations to single- and first-authored papers.</li>
   <li><b>[2026.09]</b> 4 papers (<a href="https://arxiv.org/abs/2605.20624">AVIS</a>, <a href="https://arxiv.org/abs/2605.19804">StitchVM</a>, <a href="https://arxiv.org/abs/2606.17048">EPS</a> - main, <a href="https://arxiv.org/abs/2609.30952">MVVBench</a> - E&D) are accepted to NeurIPS 2026.</li>
   <li><b>[2026.09]</b> I am serving as an Area Chair for ICLR 2027.</li>
   <li><b>[2026.06]</b> 2 papers (<a href="https://arxiv.org/abs/2512.05672">InverseCrafter</a>, ReDesign) are accepted to ECCV 2026.</li>
-  <li><b>[2026.05]</b> I was recognized as a Gold Reviewer for ICML 2026.</li>
   <div id="more-news" style="display: none;">
-    <li><b>[2026.05]</b> A paper (<a href="https://arxiv.org/abs/2411.17077">Contrastive CFG</a>) is accepted to ICML 2026.</li>
+    <li><b>[2026.05]</b> I was recognized as a Gold Reviewer for ICML 2026.</li>
+    <li><b>[2026.05]</b> <a href="https://arxiv.org/abs/2411.17077">Contrastive CFG</a> is accepted to ICML 2026.</li>
     <li><b>[2026.04]</b> 2 papers (<a href="https://arxiv.org/abs/2511.19827">ReDirector</a> - main, <a href="https://arxiv.org/abs/2509.08016">VPS</a> - findings) are accepted to CVPR 2026.</li>
-    <li><b>[2026.02]</b> A paper (<a href="https://openreview.net/forum?id=N51nP3TBwR">BDO</a>) is accepted to ICLR 2026.</li>
+    <li><b>[2026.02]</b> <a href="https://openreview.net/forum?id=N51nP3TBwR">BDO</a> is accepted to ICLR 2026.</li>
     <li><b>[2025.11]</b> I was selected as a <a href="https://www.elsevier.com/ko-kr/promotions/worlds-top-researchers">World Top 2% Scientist 2025</a>.</li>
-    <li><b>[2025.10]</b> A paper (<a href="https://arxiv.org/abs/2504.01689">InvFusion</a>) is accepted to NeurIPS 2025.</li>
+    <li><b>[2025.10]</b> <a href="https://arxiv.org/abs/2504.01689">InvFusion</a> is accepted to NeurIPS 2025.</li>
     <li><b>[2025.06]</b> 3 papers (<a href="https://arxiv.org/abs/2503.12024">SteerX</a>, <a href="https://arxiv.org/abs/2503.15855">VideoRFSplat</a>, <a href="https://arxiv.org/abs/2411.06869">CapeLLM</a>) are accepted to ICCV 2025.</li>
-    <li><b>[2025.03]</b> A paper (<a href="https://arxiv.org/abs/2411.15265">FreeMCG</a>) is accepted to CVPR 2025.</li>
+    <li><b>[2025.03]</b> <a href="https://arxiv.org/abs/2411.15265">FreeMCG</a> is accepted to CVPR 2025.</li>
     <li><b>[2025.02]</b> <a href="https://arxiv.org/abs/2406.08070">CFG++</a> is awarded Silver prize in 31st Samsung Humantech Paper Award.</li>
     <li><b>[2025.01]</b> Two papers (<a href="https://arxiv.org/abs/2406.08070">CFG++</a>,<a href="https://arxiv.org/abs/2311.15658">TReg</a>) are accepted to ICLR 2025.</li>
     <li><b>[2024.11]</b> Defended my Ph.D. thesis! (Title: Practical approximations of posterior sampling in diffusion model-based inverse problems)</li>
     <li><b>[2024.08]</b> I joined <a href="https://everex.kr/">EverEx</a> as a research scientist.</li>
-    <li><b>[2024.07]</b> A paper (<a href="https://arxiv.org/abs/2310.01110">P2L</a>) is accepted to ICML 2024.</li>
-    <li><b>[2024.06]</b> A paper (<a href="https://arxiv.org/abs/2407.10641">DDIP</a>) is accepted to ECCV 2024.</li>
+    <li><b>[2024.07]</b> <a href="https://arxiv.org/abs/2310.01110">P2L</a> is accepted to ICML 2024.</li>
+    <li><b>[2024.06]</b> <a href="https://arxiv.org/abs/2407.10641">DDIP</a> is accepted to ECCV 2024.</li>
     <li><b>[2024.02]</b> <a href="https://arxiv.org/abs/2407.10641">DDIP</a> is awarded Gold prize in 30th Samsung Humantech Paper Award.</li>
-    <li><b>[2024.01]</b> A paper (<a href="https://arxiv.org/abs/2303.05754">DDS</a>) is accepted to ICLR 2024.</li>
+    <li><b>[2024.01]</b> <a href="https://arxiv.org/abs/2303.05754">DDS</a> is accepted to ICLR 2024.</li>
     <li><b>[2023.11]</b> I joined <a href="https://www.nvidia.com/en-us/research/">NVIDIA Research</a> as an intern (Host: <a href="https://sites.ps.uci.edu/pritchard/">Mike Pritchard</a>).</li>
-    <li><b>[2023.07]</b> A paper (<a href="https://arxiv.org/abs/2303.08440">TPDM</a>) is accepted to ICCV 2023.</li>
+    <li><b>[2023.07]</b> <a href="https://arxiv.org/abs/2303.08440">TPDM</a> is accepted to ICCV 2023.</li>
     <li><b>[2023.03]</b> I joined <a href="https://research.google/">Google Research</a> as an intern (Host: <a href="https://mdelbra.github.io/">Mauricio Delbracio</a>).</li>
     <li><b>[2023.03]</b> Two papers (<a href="https://arxiv.org/abs/2211.10656">BlindDPS</a>,<a href="https://arxiv.org/abs/2211.10655">DiffusionMBIR</a>) are accepted to CVPR 2023.</li>
     <li><b>[2023.02]</b> <a href="https://arxiv.org/abs/2209.14687">DPS</a> is awarded Gold prize in 29th Samsung Humantech Paper Award.</li>
-    <li><b>[2023.01]</b> A paper (<a href="https://arxiv.org/abs/2209.14687">DPS</a>) is accepted to ICLR 2023 as spotlight.</li>
+    <li><b>[2023.01]</b> <a href="https://arxiv.org/abs/2209.14687">DPS</a> is accepted to ICLR 2023 as spotlight.</li>
     <li><b>[2022.09]</b> Two papers (<a href="https://arxiv.org/abs/2206.00941">MCG</a>,<a href="https://arxiv.org/abs/2207.11192">Blur diffusion</a>) are accepted to NeurIPS 2022 / NeurIPS 2022 SBM workshop.</li>
-    <li><b>[2022.03]</b> A paper (<a href="https://arxiv.org/abs/2112.05146">CCDF</a>) is accepted to CVPR 2022.</li>
+    <li><b>[2022.03]</b> <a href="https://arxiv.org/abs/2112.05146">CCDF</a> is accepted to CVPR 2022.</li>
     <li><b>[2021.03]</b> <a href="https://www.nature.com/articles/s42256-020-00289-5">Our paper</a> is selected as a cover of Nature Machine Intelligence.</li>
   </div>
 </ul>
